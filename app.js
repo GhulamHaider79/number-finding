@@ -17,6 +17,7 @@ for (i = 0; i < numberArray.length; i++){
     }
 }
 
-document.write("<p>Even Numbers: " + evenArray.join(', ') + "</p>");
-document.write("<p>Odd Numbers: " + oddArray.join(', ') + "</p>");
+document.write("<p> Numbers Array: " + numberArray + "</p>");
+document.write("<p>Even Numbers: " + evenArray + "</p>");
+document.write("<p>Odd Numbers: " + oddArray + "</p>");
 
